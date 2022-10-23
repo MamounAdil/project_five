@@ -378,6 +378,11 @@ header .carousel-item .carousel-caption button:hover::before  { opacity: 0 }
 .contact-info img { width: 350px; height: 350px }
 
 .contact-info input:focus,.contact-info textarea:focus { box-shadow: none}
+
+.contact-info .btn-danger {
+    background-color: #111A3A !important;
+    border-color: #111A3A !important;
+}
 /* End Style Contact Info */
 
 /* Start Section Contact */
