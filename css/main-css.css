@@ -13,7 +13,7 @@
 
 .back-main { background-color: #111a3a !important; }
 
-body { font-family: 'Poppins', sans-serif }
+body { font-family: 'Poppins', sans-serif; overflow: hidden }
 
 .bg-light { background-color: #FFF !important; }
 
