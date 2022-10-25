@@ -81,9 +81,13 @@ window.onload = function () {
                 behavior: "smooth"
             });
         });
-
-
     }
 
 
+
+    // Loading Page
+    let loadingPage = document.querySelector(".loading-page");
+
+    document.querySelector("body").style.overflow = "auto"
+    loadingPage.style.display = "none";
 };
