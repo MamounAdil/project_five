@@ -107,7 +107,7 @@
     .about-us .box-two .info { margin-top: 6.8rem }
 
     /* Services */
-    .services { height: 1580px }
+    .services { height: 1630px }
 
     /* Work Progress */
     .work-progress .single-progress .card .card-body h5::after { display: none }
@@ -136,4 +136,14 @@
 
     /* Contact */
     .contact .w-75 { width: 50%!important; }
+}
+
+
+@media (max-width: 511.98px ) {
+    .port ul {
+        align-items: normal!important;
+        width: 70%!important;
+    }
+
+    .port ul li { line-height:50px !important;}
 }
